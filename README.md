@@ -2,9 +2,9 @@
 lights projects involving fully addressable LEDs, Arduino, Alexa, etc.
 
 # ideas
-- 1) tug of war-type game - mash Echo Buttons to add a light to your side; someone wins when they meet
-- 2) jeopardy buzzer - lights up as color of team from Echo Button
-- 3) music leds!!
+- tug of war-type game - mash Echo Buttons to add a light to your side; someone wins when they meet
+- jeopardy buzzer - lights up as color of team from Echo Button
+- music leds!!
 
 
 # resources
