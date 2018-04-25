@@ -17,6 +17,7 @@ lights projects involving fully addressable LEDs, Arduino, Alexa, etc.
 - [WS2812 led strip to music with arduino (Video)](https://www.youtube.com/watch?v=0PgFK85fIHM) [(Code)](http://textuploader.com/o4ir)
 - [controllable RGB strip synced to music (Video)](https://www.youtube.com/watch?v=G1lWJVuKW3Q&t=49s)
 - [Easy Addressable LEDs (Video)](https://www.youtube.com/watch?v=VAa4duqMrgs) [(Code)](http://kevindarrah.com/download/arduino_code/WS1812_V4_FOR_VIDEO.ino)
+- [How To Control WS2812B Individually Addressable LEDs using Arduino (Video)](https://www.youtube.com/watch?v=UhYu0k2woRM)
 
 # misc
 - [DIY idea for LED coffee table](https://www.youtube.com/watch?v=OasbgnLOuPI)
