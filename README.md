@@ -14,6 +14,7 @@ lights projects involving fully addressable LEDs, Arduino, Alexa, etc.
   - (Might drop the echo stuff and go for regular bluetooth / IoT buttons)
   
 # resources
+- [LED strip visualization using ESP8266 (Video)](https://www.youtube.com/watch?v=HNtM7jH5GXg) [(GitHub)](https://github.com/scottlawsonbc/audio-reactive-led-strip)
 - [WS2812 led strip to music with arduino (Video)](https://www.youtube.com/watch?v=0PgFK85fIHM) [(Code)](http://textuploader.com/o4ir)
 - [controllable RGB strip synced to music (Video)](https://www.youtube.com/watch?v=G1lWJVuKW3Q&t=49s)
 - [Easy Addressable LEDs (Video)](https://www.youtube.com/watch?v=VAa4duqMrgs) [(Code)](http://kevindarrah.com/download/arduino_code/WS1812_V4_FOR_VIDEO.ino)
