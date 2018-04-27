@@ -27,9 +27,12 @@ lights projects involving fully addressable LEDs, Arduino, Alexa, etc.
 - [WS2812 Breakout Hookup (Guide)](https://learn.sparkfun.com/tutorials/ws2812-breakout-hookup-guide#introduction)
 
 # resources (pi)
-- - [LED strip visualization using ESP8266 (Video)](https://www.youtube.com/watch?v=HNtM7jH5GXg) [(GitHub)](https://github.com/scottlawsonbc/audio-reactive-led-strip)
+- [LED strip visualization using ESP8266 (Video)](https://www.youtube.com/watch?v=HNtM7jH5GXg) [(GitHub)](https://github.com/scottlawsonbc/audio-reactive-led-strip)
 - https://core-electronics.com.au/tutorials/ws2812-addressable-leds-raspberry-pi-quickstart-guide.html
 - https://tutorials-raspberrypi.com/connect-control-raspberry-pi-ws2812-rgb-led-strips/
 
-# misc
+# resources (misc)
+- https://learn.adafruit.com/adafruit-neopixel-uberguide/best-practices
+
+# other ideas
 - [DIY idea for LED coffee table](https://www.youtube.com/watch?v=OasbgnLOuPI)
