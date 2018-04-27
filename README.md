@@ -20,6 +20,8 @@ lights projects involving fully addressable LEDs, Arduino, Alexa, etc.
 - [Easy Addressable LEDs (Video)](https://www.youtube.com/watch?v=VAa4duqMrgs) [(Code)](http://kevindarrah.com/download/arduino_code/WS1812_V4_FOR_VIDEO.ino)
 - [How To Control WS2812B Individually Addressable LEDs using Arduino (Video)](https://www.youtube.com/watch?v=UhYu0k2woRM)
 - [Control RGB LEDs with Arduino (Video)](https://www.youtube.com/watch?v=QnWZdxMytaA)
+- [FastLED Library (GitHub)](https://github.com/FastLED/FastLED)
+- [WS2812 Breakout Hookup (Guide)](https://learn.sparkfun.com/tutorials/ws2812-breakout-hookup-guide#introduction)
 
 # misc
 - [DIY idea for LED coffee table](https://www.youtube.com/watch?v=OasbgnLOuPI)
